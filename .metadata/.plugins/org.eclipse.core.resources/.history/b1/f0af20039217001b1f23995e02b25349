@@ -1,0 +1,13 @@
+package com.cy.springboot.cruddemo.service;
+
+import java.util.List;
+
+import com.cy.springboot.cruddemo.entity.Employee;
+
+public interface EmployeeService {
+	
+	public List<Employee> findAll();
+	
+	public Employee findById(int theId);
+
+}

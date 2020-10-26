@@ -1,0 +1,10 @@
+package com.cy.springboot.cruddemo.rest;
+
+@RestController
+@RequestMapping("/api")
+public class EmployeeRestController {
+	
+	// quick and dirty : inject employee dao
+	
+	// expose "/employees" and return list of employees
+}

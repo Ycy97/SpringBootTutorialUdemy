@@ -1,6 +1,0 @@
-package com.example.demo.rest;
-
-@RestController
-public class FunRestController {
-	//expose "/" end point that return hello world
-}

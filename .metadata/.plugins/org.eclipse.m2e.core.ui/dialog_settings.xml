@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\SpringBoot\thymeleafdemo"/>
 			<item value="D:\SpringBootProjects\cruddemo\cruddemo"/>
 			<item value="D:\SpringBoot\demo"/>
 			<item value="D:\SpringBoot"/>

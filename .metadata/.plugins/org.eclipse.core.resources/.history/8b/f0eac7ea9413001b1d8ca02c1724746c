@@ -1,6 +1,0 @@
-info.app.name=My First SpringBoot App
-info.app.description=My First ever SpringBoot App!
-info.app.version=1.0.0
-
-#Use wildcard "*" to expose all endpoints, use comma delimeter if want to add individually
-

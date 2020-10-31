@@ -2,4 +2,5 @@
 <typeInfoHistroy>
 <typeInfo handle="=cruddemo/src\/main\/java&lt;com.cy.springboot.cruddemo.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1603720145010"/>
 <typeInfo handle="=jpa-crudeDemo/src\/main\/java&lt;com.cy.springboot.cruddemo.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1603718945340"/>
+<typeInfo handle="=springData-jpa-crudeDemo/C:\/Users\/User\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.3.4.RELEASE\/spring-data-jpa-2.3.4.RELEASE.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1603713110549"/>
 </typeInfoHistroy>

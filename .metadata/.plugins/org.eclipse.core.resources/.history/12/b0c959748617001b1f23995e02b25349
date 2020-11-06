@@ -1,7 +1,0 @@
-package com.cy.springboot.cruddemo.entity;
-
-@Entity
-@Table(name="employee")
-public class Employee {
-
-}

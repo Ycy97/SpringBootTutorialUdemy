@@ -1,5 +1,0 @@
-package com.cy.springboot.cruddemo.dao;
-
-public class EmployeeDAOHibernateImpl {
-
-}

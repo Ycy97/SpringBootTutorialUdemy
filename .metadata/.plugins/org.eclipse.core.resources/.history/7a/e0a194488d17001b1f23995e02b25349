@@ -1,8 +1,0 @@
-package com.cy.springboot.cruddemo.rest;
-
-public class EmployeeRestController {
-	
-	// quick and dirty : inject employee dao
-	
-	// expose "/employees" and return list of employees
-}

@@ -1,9 +1,0 @@
-package com.cy.springboot.cruddemo.service;
-
-public interface EmployeeService {
-	
-	public List<Employee> findAll();
-	
-	public Employee findById(int theId);
-
-}

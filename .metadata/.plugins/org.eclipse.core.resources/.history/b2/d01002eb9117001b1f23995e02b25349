@@ -1,5 +1,0 @@
-package com.cy.springboot.cruddemo.service;
-
-public interface EmployeeService {
-
-}

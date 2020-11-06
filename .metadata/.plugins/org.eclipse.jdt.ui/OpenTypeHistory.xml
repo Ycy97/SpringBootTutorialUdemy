@@ -3,4 +3,5 @@
 <typeInfo handle="=cruddemo/src\/main\/java&lt;com.cy.springboot.cruddemo.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1603720145010"/>
 <typeInfo handle="=jpa-crudeDemo/src\/main\/java&lt;com.cy.springboot.cruddemo.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1603718945340"/>
 <typeInfo handle="=springData-jpa-crudeDemo/C:\/Users\/User\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.3.4.RELEASE\/spring-data-jpa-2.3.4.RELEASE.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1603713110549"/>
+<typeInfo handle="=thymeleafdemo-employees-list-dbProject-springSecurity/C:\/Users\/User\/.m2\/repository\/org\/springframework\/security\/spring-security-config\/5.3.5.RELEASE\/spring-security-config-5.3.5.RELEASE.jar&lt;org.springframework.security.config.annotation.web.configuration(WebSecurityConfigurerAdapter.class[WebSecurityConfigurerAdapter" modifiers="1057" timestamp="1604208816116"/>
 </typeInfoHistroy>
